@@ -1,0 +1,5 @@
+Cole Kleinhans & Kyle Machalec
+
+PathFinder.java and GraphImplementation.java are adapted from HW8.
+
+Pandemic was published by Z-Man Games. Game design was done by Matt Leacock and artwork was done by Chris Quilliams.
